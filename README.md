@@ -1,6 +1,7 @@
 # sales-dashboard-PowerBI
 Sales performance dashboard built with Power BI, using sales data to uncover trends and performance insights.
-https://github.com/Nouria99/sales-dashboard-PowerBI/blob/main/image.png
+![Dashboard Screenshot](https://github.com/Nouria99/sales-dashboard-PowerBI/blob/main/image.png?raw=true)
+
 ## 📁 Project Overview
 
 - Cleaned and transformed raw sales data from CSV
